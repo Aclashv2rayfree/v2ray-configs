@@ -29,11 +29,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%
 ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@l98tygm6.wmdkwwurw.top:19994#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
 vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@172.67.73.163:80?security=none&type=ws&host=DECENt-ReFerEnCE.ZUlAir.oRG.&encryption=none&type=ws&path=%2F%3Fed%3D2048&sni=DECENt-ReFerEnCE.ZUlAir.oRG.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_2
 vless://135dc7b6-7194-4c51-e0e4-1192b20c3df0@104.17.148.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&encryption=none&type=ws&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082&sni=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@3.38.208.49:9898#end-gfw.com@kr64
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.195.12.226:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.38.208.49:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
-vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiI1Mi4xOTUuMTIuMjI2IiwicG9ydCI6Njg2OCwiaWQiOiIxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJlbmQtZ2Z3LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiYmFpZHUuY29tIiwiYWxsb3dJbnNlY3VyZSI6MX0=
-vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiIzLjM4LjIwOC40OSIsInBvcnQiOjY4NjgsImlkIjoiMWExN2IxOWQtNDg5Ni00NTMxLWFmNzktNmU5MWQ4ZWY4MjI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImJhaWR1LmNvbSIsImFsbG93SW5zZWN1cmUiOjF9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@43.203.221.187:9898#end-gfw.com@kr64
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@43.203.221.187:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#2%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=fp=chrome&security=tls#2%7C%F0%9F%8C%801-MD%20%7C%20%201.8MB/s%7C44%25%7CYoutube%7CO...
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&path=fp=chrome&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%204.1MB/s%7C36%25%7COpenai
@@ -68,11 +65,13 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6V
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#10%2C12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7%20%231
 ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw==@54.169.30.154:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y=@kh36v1.pmxiaonan.xyz:26902#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206YjQ0ODY0ZTViNTZk@163.61.206.64:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc=@112.54.160.36:30232#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.14:5344#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.25:38388#13%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CBA_speednode_0001
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@23.227.60.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CCA_speednode_0002
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@23.227.39.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CCA_speednode_0003
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.245.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CCR_speednode_0012
 vless://e3a62b76-8a54-4043-83b4-9b0a1ed5aa6e@190.93.244.30:443?allowInsecure=0&sni=tunnel.ethcdn.net&type=ws&host=tunnel.ethcdn.net&path=/security=tls#15%7CCR_speednode_0013
@@ -89,6 +88,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.63:8880?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.199.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CGB_speednode_0026
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.197.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CGB_speednode_0027
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.193.31.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CGB_speednode_0028
+vless://6d288402-6ef9-4092-9d52-c528690fb693@134.122.100.178:10108?allowInsecure=0&sni=pMLMyAZD-6S6.paGeS.DEV&alpn=http/1.1&type=ws&host=pMLMyAZD-6S6.paGeS.DEV&path=/Nu8bHy0jlYQqvxns/MTIxLjU0LjMwLjE1OQ==?ed=2560fp=randomized&security=tls#15%7CGB_speednode_0030
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.218.15.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CHK_speednode_0031
 vless://c3860471-5718-4811-a372-e3ca0204ac4c@122.250.215.82:32180?allowInsecure=0&sni=mot.morisi.ggff.net&type=ws&host=mot.morisi.ggff.net&path=/?ed=2560fp=random&security=tls#15%7CJP_speednode_0035
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.92.9.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CJP_speednode_0036
@@ -124,6 +124,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.9.49.63:8880?allowInsecure=0&sn
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.174.138.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CRU_speednode_0077
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.233.132.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CRU_speednode_0078
 vless://c7d1fef0-8115-4488-9c6e-60bd175c4e33@43.134.111.154:27223?allowInsecure=0&sni=etc.mesa.ip-ddns.com&type=ws&host=etc.mesa.ip-ddns.com&path=/?ed=2560fp=random&security=tls#15%7CSG_speednode_0080
+vless://a7eb3991-2371-4b07-8ae6-5a8efac1c155@43.134.23.141:20223?allowInsecure=0&sni=mot.majusti.dpdns.org&type=ws&host=mot.majusti.dpdns.org&path=/?ed=2560fp=chrome&security=tls#15%7CSG_speednode_0081
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.188.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CSI_speednode_0083
 vless://e46d518d-4a20-4f9a-873d-a86e9455321c@45.144.167.46:19816?allowInsecure=0&sni=mixing-proper-sharon-literary.trycloudflare.com&type=ws&host=mixing-proper-sharon-literary.trycloudflare.com&path=/e46d518d-4a20-4f9a-873d-a86e9455321c-vless?ed=2048fp=chrome&security=tls#15%7CTH_speednode_0084
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.246.63:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CTR_speednode_0087
@@ -194,6 +195,7 @@ vless://67c662fa-cd6a-474a-b55f-d50dc0a7e210@www.visasoutheasteurope.com:2096?al
 vless://2820219d-0979-4914-9ea1-09a4bd017535@fastly.vipfast7.top:80?allowInsecure=0&sni=fastusa.com&type=ws&host=fastusa.com&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#15%7CUS_speednode_0167
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.253.83:443?allowInsecure=0&sni=vless7-7a1.pages.dev&type=ws&host=vless7-7a1.pages.dev&path=/security=tls#15%7CUS_speednode_0168
 trojan://ttfang@198.41.221.4:443?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#15%7CUS_speednode_0169
+trojan://ttfang@198.41.221.6:443?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#15%7CUS_speednode_0170
 trojan://ttfang@198.41.221.0:443?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#15%7CUS_speednode_0171
 trojan://ttfang@198.41.221.3:443?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#15%7CUS_speednode_0172
 trojan://ttfang@198.41.221.12:443?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#15%7CUS_speednode_0173
@@ -261,4 +263,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.63:8880?allowInsecure=0
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-19 06:50:00 
+### 更新时间 2025-06-19 06:56:39 
