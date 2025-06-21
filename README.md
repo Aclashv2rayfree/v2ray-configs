@@ -62,7 +62,6 @@ vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#2%7C%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#11%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.183.222.24:443#12%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.14:5344#12%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIlNzc3Nzc3NXLjIyMjU2MC5YWXoiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjM5M2IxMDYxLWQ2MTUtNDU5YS04NjE2LTNmOTQ0N2JkZmY1YSIsICJzbmkiOiAiIiwgImhvc3QiOiAic3Nzc3Nzc3cuMjIyNTYwLnh5eiIsICJwYXRoIjogIi9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN8576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJpSWlpSTguMjIyNTYwLnhZWiIsICJwb3J0IjogIjgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMzkzYjEwNjEtZDYxNS00NTlhLTg2MTYtM2Y5NDQ3YmRmZjVhIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJpaWlpaTguMjIyNTYwLnh5eiIsICJwYXRoIjogIi9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSJ9
@@ -81,7 +80,6 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.234.239.247:8880?allowInsecure=
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@23.227.60.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCA_speednode_0013
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@74.49.214.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCA_speednode_0014
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@74.49.215.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCA_speednode_0015
-vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.93.29:26113?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCA_speednode_0016
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.18.250.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCH_speednode_0017
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@190.93.245.247:8880?allowInsecure=1&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCR_speednode_0025
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@190.93.247.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCR_speednode_0026
@@ -288,4 +286,4 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.177.176.247:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-20 20:20:00 
+### 更新时间 2025-06-20 20:26:35 
